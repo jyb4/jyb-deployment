@@ -57,7 +57,7 @@ The screenshots are stored in the [`evidence/`](evidence/) folder.
 |---|---|
 | [qa-workflow.png](evidence/qa-workflow.png) | Successful GitHub Actions QA pipeline and deployment. |
 | [qa-site.png](evidence/qa-site.png) | QA website displaying Version v2 over HTTPS. |
-| [production.png](evidence/production.png) | Successful manual production-promotion workflow. |
+| [production.png](evidence/promotion.png) | Successful manual production-promotion workflow. |
 | [production-site.png](evidence/production-site.png) | Production website displaying Version v2 over HTTPS. |
 | [docker-image.png](evidence/docker-image.png) | GHCR package and published image tag. |
 | [ssh-login.png](evidence/ssh-login.png) | Successful SSH login using the non-root `deploy` account. |
